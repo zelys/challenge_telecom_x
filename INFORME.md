@@ -160,7 +160,7 @@ El análisis realizado sobre el comportamiento de los clientes de Telecom X reve
 
 ## 📊 **1. Matriz de correlación**
 
-<img src="https://drive.google.com/uc?1viRn9cqmJRLanY1CuBjKc9tiNZLQzOyX" alt="correlación evasión" width="600">
+<img src="https://drive.google.com/uc?id=1viRn9cqmJRLanY1CuBjKc9tiNZLQzOyX" alt="correlación evasión" width="600">
 
 ## 🔍 **Insights observados**
 
@@ -170,7 +170,7 @@ El análisis realizado sobre el comportamiento de los clientes de Telecom X reve
 
 ## 🔢 **2. Relación entre número de servicios contratados y evasión**
 
-<img src="https://drive.google.com/uc?1F-SYCkgK51ODzL6WAjVxyLLc3pckbl4i" alt="servicios evasión" width="600">
+<img src="https://drive.google.com/uc?id=1F-SYCkgK51ODzL6WAjVxyLLc3pckbl4i" alt="servicios evasión" width="600">
 
 ## ✅ **Conclusión del análisis de correlación**
 
